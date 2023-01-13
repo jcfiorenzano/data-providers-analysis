@@ -1,4 +1,5 @@
-﻿1,4085,1743,5998771,CVE-2019-18413,v6:9c55c248e54f40dd8d631bcb6d1342d8,3,2,"{""GitHubAdvisories"":{""Url"":""https://nvd.nist.gov/vuln/detail/CVE-2019-18413""},""WhiteSource"":{""Url"":""https://vuln.whitesourcesoftware.com/vulnerability/CVE-2019-18413""}}"
+﻿partitionid,dataspaceid,repositoryid,alertid,title,alertkey,severity,component_type,sources
+1,4085,1743,5998771,CVE-2019-18413,v6:9c55c248e54f40dd8d631bcb6d1342d8,3,2,"{""GitHubAdvisories"":{""Url"":""https://nvd.nist.gov/vuln/detail/CVE-2019-18413""},""WhiteSource"":{""Url"":""https://vuln.whitesourcesoftware.com/vulnerability/CVE-2019-18413""}}"
 1,4085,1743,13926,CVE-2016-10608,v2:dd693921-5b1a-4626-9dab-77a39810f537,2,2,"{""GitHubAdvisories"":{""Url"":""https://nvd.nist.gov/vuln/detail/CVE-2016-10608""},""WhiteSource"":{""Url"":""https://vuln.whitesourcesoftware.com/vulnerability/CVE-2016-10608""}}"
 1,4085,1743,7614302,CST-E has determined that this component is not generally safe to use.,v6:286da790c0f345f5862660d69f7ddabf,1,2,"{""TwC"":{""Url"":""https://dev.azure.com/OneCST/SecurityEngineering/_git/OSS-Security-Reviews?path=%2Freviews%2Fnpm%2Fsshpk%2Freview-1.md""}}"
 1,4085,1743,7264011,CVE-2022-25844,v6:f817df5db43f408f8d04a6790c968313,1,2,"{""GitHubAdvisories"":{""Url"":""https://nvd.nist.gov/vuln/detail/CVE-2022-25844""}}"

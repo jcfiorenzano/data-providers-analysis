@@ -1,4 +1,5 @@
-﻿101,469,8571,315244,CVE-2020-35908,v6:315e89fa5a2042f08dc1671e845bcbd2,0,7,"{""WhiteSource"":{""Url"":""https://vuln.whitesourcesoftware.com/vulnerability/CVE-2020-35908""}}"
+﻿partitionid,dataspaceid,repositoryid,alertid,title,alertkey,severity,component_type,sources
+101,469,8571,315244,CVE-2020-35908,v6:315e89fa5a2042f08dc1671e845bcbd2,0,7,"{""WhiteSource"":{""Url"":""https://vuln.whitesourcesoftware.com/vulnerability/CVE-2020-35908""}}"
 101,469,8571,307077,CVE-2020-35907,v6:57469e13cb2c4647a53a027c8a1a53bd,0,7,"{""WhiteSource"":{""Url"":""https://vuln.whitesourcesoftware.com/vulnerability/CVE-2020-35907""}}"
 101,469,8571,307078,CVE-2020-35906,v6:d4238bba9c57410791b9c090de1ef183,2,7,"{""WhiteSource"":{""Url"":""https://vuln.whitesourcesoftware.com/vulnerability/CVE-2020-35906""}}"
 101,469,8571,309305,CVE-2020-35905,v6:ec5451c3bb094a4d9f45bf4e091886d4,0,7,"{""WhiteSource"":{""Url"":""https://vuln.whitesourcesoftware.com/vulnerability/CVE-2020-35905""}}"

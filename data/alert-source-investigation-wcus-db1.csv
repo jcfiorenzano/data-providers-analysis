@@ -1,4 +1,5 @@
-﻿2,138,748,65616,WS-2015-0042,v2:b70509f9-a16c-4c1f-94e5-552026852631,1,12,"{""WhiteSource"":{""Url"":""https://github.com/fabric/fabric/issues/1341""}}"
+﻿partitionid,dataspaceid,repositoryid,alertid,title,alertkey,severity,component_type,sources
+2,138,748,65616,WS-2015-0042,v2:b70509f9-a16c-4c1f-94e5-552026852631,1,12,"{""WhiteSource"":{""Url"":""https://github.com/fabric/fabric/issues/1341""}}"
 4,11,7,97799,CVE-2022-39353,v6:e3089068ab2344299bbc0d5427fc5b86,3,2,"{""GitHubAdvisories"":{""Url"":""https://github.com/xmldom/xmldom/security/advisories/GHSA-crh6-fp67-6883""},""WhiteSource"":{""Url"":""https://vuln.whitesourcesoftware.com/vulnerability/CVE-2022-39353""}}"
 4,11,7,40320,CVE-2017-12964,v6:dc35c9c8bb76489e8c86bf112a93d03c,2,2,"{""WhiteSource"":{""Url"":""https://vuln.whitesourcesoftware.com/vulnerability/CVE-2017-12964""}}"
 4,11,7,303,CVE-2015-8855,v2:e40eaeec-f67b-4f36-8607-440202e3f8ec,2,2,"{""GitHubAdvisories"":{""Url"":""https://nvd.nist.gov/vuln/detail/CVE-2015-8855""},""WhiteSource"":{""Url"":""https://vuln.whitesourcesoftware.com/vulnerability/CVE-2015-8855""}}"
